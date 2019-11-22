@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+    
+body, html {
+    height: 100%;
+    margin: 0;
+        /* The image used */
+    background-image: url("map.png");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .2s ease;
+  opacity: 0;
+  position: absolute;
+  top: 20%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.text {
+  background-color: #EDC558;
+  color: white;
+  font-size: 16px;
+  width:100px;
+  line-height:16px;
+  padding: 12px 32px;
+}
+
+
+.AL {
+    position: absolute;
+    top: 460px;
+    left: 855px;
+    width: 10%;
+}   
+.AL:hover .image {
+  opacity: 0.3;
+}
+.AL:hover .middle {
+  opacity: 1;
+}
+    
+.AR {
+    position: absolute;
+    top: 420px;
+    left: 710px;
+    width: 10%;
+}   
+.AR:hover .image {
+  opacity: 0.3;
+}
+.AR:hover .middle {
+  opacity: 1;
+}
+    
+.AZ {
+    position: absolute;
+    top: 420px;
+    left: 220px;
+    width: 10%;
+}   
+.AZ:hover .image {
+  opacity: 0.3;
+}
+.AZ:hover .middle {
+  opacity: 1;
+}
+    
+.CA {
+    position: absolute;
+    top: 320px;
+    left: 40px;
+    width: 10%;
+}   
+.CA:hover .image {
+  opacity: 0.3;
+}
+.CA:hover .middle {
+  opacity: 1;
+}
+    
+.CO {
+    position: absolute;
+    top: 280px;
+    left: 400px;
+    width: 10%;
+}   
+.CO:hover .image {
+  opacity: 0.3;
+}
+.CO:hover .middle {
+  opacity: 1;
+}
+    
+.DE {
+    position: absolute;
+    top: 250px;
+    left: 1100px;
+    width: 10%;
+}   
+.DE:hover .image {
+  opacity: 0.3;
+}
+.DE:hover .middle {
+  opacity: 1;
+}
+    
+.FL {
+    position: absolute;
+    top: 570px;
+    left: 1010px;
+    width: 10%;
+}   
+.FL:hover .image {
+  opacity: 0.3;
+}
+.FL:hover .middle {
+  opacity: 1;
+}
+    
+.GA {
+    position: absolute;
+    top: 460px;
+    left: 950px;
+    width: 10%;
+}   
+.GA:hover .image {
+  opacity: 0.3;
+}
+.GA:hover .middle {
+  opacity: 1;
+}
+    
+.IL {
+    position: absolute;
+    top: 250px;
+    left: 780px;
+    width: 10%;
+}   
+.IL:hover .image {
+  opacity: 0.3;
+}
+.IL:hover .middle {
+  opacity: 1;
+}
+    
+.IN {
+    position: absolute;
+    top: 260px;
+    left: 850px;
+    width: 10%;
+}   
+.IN:hover .image {
+  opacity: 0.3;
+}
+.IN:hover .middle {
+  opacity: 1;
+}
+    
+.MN {
+    position: absolute;
+    top: 80px;
+    left: 640px;
+    width: 10%;
+}   
+.MN:hover .image {
+  opacity: 0.3;
+}
+.MN:hover .middle {
+  opacity: 1;
+}
+    
+.MT {
+    position: absolute;
+    top: 45px;
+    left: 320px;
+    width: 10%;
+}   
+.MT:hover .image {
+  opacity: 0.3;
+}
+.MT:hover .middle {
+  opacity: 1;
+}
+    
+.NC {
+    position: absolute;
+    top: 360px;
+    left: 1020px;
+    width: 10%;
+}   
+.NC:hover .image {
+  opacity: 0.3;
+}
+.NC:hover .middle {
+  opacity: 1;
+}
+    
+.NE {
+    position: absolute;
+    top: 230px;
+    left: 540px;
+    width: 10%;
+}   
+.NE:hover .image {
+  opacity: 0.3;
+}
+.NE:hover .middle {
+  opacity: 1;
+}
+
+.NV {
+    position: absolute;
+    top: 250px;
+    left: 140px;
+    width: 10%;
+}   
+.NV:hover .image {
+  opacity: 0.3;
+}
+.NV:hover .middle {
+  opacity: 1;
+}
+    
+.NY {
+    position: absolute;
+    top: 115px;
+    left: 1080px;
+    width: 10%;
+}   
+.NY:hover .image {
+  opacity: 0.3;
+}
+.NY:hover .middle {
+  opacity: 1;
+}
+    
+.OH {
+    position: absolute;
+    top: 240px;
+    left: 920px;
+    width: 10%;
+}   
+.OH:hover .image {
+  opacity: 0.3;
+}
+.OH:hover .middle {
+  opacity: 1;
+}
+    
+.PA {
+    position: absolute;
+    top: 200px;
+    left: 1040px;
+    width: 10%;
+}   
+.PA:hover .image {
+  opacity: 0.3;
+}
+.PA:hover .middle {
+  opacity: 1;
+}
+
+.SC {
+    position: absolute;
+    top: 420px;
+    left: 1020px;
+    width: 10%;
+}   
+.SC:hover .image {
+  opacity: 0.3;
+}
+.SC:hover .middle {
+  opacity: 1;
+}
+    
+.VA {
+    position: absolute;
+    top: 305px;
+    left: 1040px;
+    width: 10%;
+}   
+.VA:hover .image {
+  opacity: 0.3;
+}
+.VA:hover .middle {
+  opacity: 1;
+}
+    
+.VT {
+    position: absolute;
+    top: 70px;
+    left: 1120px;
+    width: 10%;
+}   
+.VT:hover .image {
+  opacity: 0.3;
+}
+.VT:hover .middle {
+  opacity: 1;
+}
+    
+.WA {
+    position: absolute;
+    top: 12px;
+    left: 110px;
+    width: 10%;
+}   
+.WA:hover .image {
+  opacity: 0.3;
+}
+.WA:hover .middle {
+  opacity: 1;
+}
+
+.WI {
+    position: absolute;
+    top: 125px;
+    left: 760px;
+    width: 10%;
+}   
+.WI:hover .image {
+  opacity: 0.3;
+}
+.WI:hover .middle {
+  opacity: 1;
+}
+   
+.TX {
+    position: absolute;
+    top: 530px;
+    left: 550px;
+    width: 10%;
+}   
+.TX:hover .image {
+  opacity: 0.3;
+}
+.TX:hover .middle {
+  opacity: 1;
+}
+</style>
+</head>
+<body>
+
+<div class="AL">
+  <img src="icons/AL.png" alt="AL" class="image" style="width:50%">
+  <div class="middle">
+    <div class="text">
+    <p>Shadow's Art</p>
+    <p>North Las Vegas</p>
+    <p>✭✭✭✭✭</p>
+    
+    </div>
+  </div>
+</div>
+    
+<div class="AR">
+  <img src="icons/AR.png" alt="AR" class="image" style="width:50%">
+  <div class="middle">
+    <div class="text">
+    <p>Braces R Us</p>
+    <p>Mesa</p>
+    <p>✭✭✭✭✭</p>
+      
+    </div>
+  </div>
+</div>
+
+<div class="AZ">
+  <img src="icons/AZ.png" alt="AZ" class="image" style="width:60%">
+  <div class="middle">
+    <div class="text">
+    <p>Little Miss BBQ</p>
+    <p>Phoenix</p>
+    <p>✭✭✭✭✭</p>
+    
+    </div>
+  </div>
+</div>
+
+<div class="CA">
+  <img src="icons/CA.png" alt="CA" class="image" style="width:60%">
+  <div class="middle">
+    <div class="text">
+    <p>Open Up Therapies</p>
+    <p>Las Vegas</p>
+    <p>✭✭✭✭✭</p>
+    
+    </div>
+  </div>
+</div>
+    
+<div class="CO">
+  <img src="icons/CO.png" alt="CO" class="image" style="width:60%">
+  <div class="middle">
+    <div class="text">
+    <p>Sage Restaurant</p>
+    <p>Main Street</p>
+    <p>✭✭✭✭✩</p>
+    
+    </div>
+  </div>
+</div>
+
+<div class="DE">
+  <img src="icons/DE.png" alt="DE" class="image" style="width:30%">
+  <div class="middle">
+    <div class="text">
+    <p>Vodafone Premium Händler</p>
+    <p>Lingen</p>
+    <p>✭✭✭✭✩</p>
+    
+    </div>
+  </div>
+</div>
+    
+<div class="FL">
+  <img src="icons/FL.png" alt="FL" class="image" style="width:40%">
+  <div class="middle">
+    <div class="text">
+    <p>Payless Car Rental</p>
+    <p>Las Vegas</p>
+    <p>✭✭✩✩✩</p>
+    
+    </div>
+  </div>
+</div>
+    
+<div class="GA">
+  <img src="icons/GA.png" alt="GA" class="image" style="width:45%">
+  <div class="middle">
+    <div class="text">
+    <p>Elite Plumbing</p>
+    <p>Las Vegas</p>
+    <p>✭✭✭✭✭</p>
+    
+    </div>
+  </div>
+</div>
+
+<div class="IL">
+  <img src="icons/IL.jpg" alt="IL" class="image" style="width:45%">
+  <div class="middle">
+    <div class="text">
+    <p>El Oasis</p>
+    <p>Urbana</p>
+    <p>✭✭✭✭✭</p>
+    
+    </div>
+  </div>
+</div>
+    
+<div class="IN">
+  <img src="icons/IN.png" alt="IN" class="image" style="width:30%">
+  <div class="middle">
+    <div class="text">
+    <p>Log House Restaurant</p>
+    <p>Argos</p>
+    <p>✭✭✭✭✩</p>
+    
+    </div>
+  </div>
+</div>
+
+<div class="MN">
+  <img src="icons/MN.png" alt="MN" class="image" style="width:50%">
+  <div class="middle">
+    <div class="text">
+    <p>Highland Wrecker Services</p>
+    <p>Las Vegas</p>
+    <p>✭✭✭✩✩</p>
+    
+    </div>
+  </div>
+</div>
+    
+<div class="MT">
+  <img src="icons/MT.png" alt="MT" class="image" style="width:70%">
+  <div class="middle">
+    <div class="text">
+    <p>The Great Frame Up</p>
+    <p>St. Peters</p>
+    <p>✭✭✭✩✩</p>
+    
+    </div>
+  </div>
+</div>
+
+<div class="NC">
+  <img src="icons/NC.png" alt="NC" class="image" style="width:35%">
+  <div class="middle">
+    <div class="text">
+    <p>Chili Man</p>
+    <p>Charlotte</p>
+    <p>✭✭✭✭✭</p>
+    
+    </div>
+  </div>
+</div>
+
+<div class="NE">
+  <img src="icons/NE.png" alt="NE" class="image" style="width:45%">
+  <div class="middle">
+    <div class="text">
+    <p>Adam's Paralegal Services</p>
+    <p>Las Vegas</p>
+    <p>✭✭✭✭✩</p>
+    
+    </div>
+  </div>
+</div>
+    
+<div class="NV">
+  <img src="icons/NV.png" alt="NV" class="image" style="width:60%">
+  <div class="middle">
+    <div class="text">
+    <p>Brew Tea Bar</p>
+    <p>Las Vegas</p>
+    <p>✭✭✭✭✭</p>
+    
+    </div>
+  </div>
+</div>
+
+<div class="NY">
+  <img src="icons/NY.png" alt="NY" class="image" style="width:30%">
+  <div class="middle">
+    <div class="text">
+    <p>Sandi's Kountry Kitchen</p>
+    <p>Mooers</p>
+    <p>✭✭✭✭✭</p>
+    
+    </div>
+  </div>
+</div>
+
+<div class="OH">
+  <img src="icons/OH.png" alt="OH" class="image" style="width:40%">
+  <div class="middle">
+    <div class="text">
+    <p>The Cleveland Museum of Art</p>
+    <p>Cleveland</p>
+    <p>✭✭✭✭✭</p>
+    
+    </div>
+  </div>
+</div>
+    
+<div class="PA">
+  <img src="icons/PA.png" alt="PA" class="image" style="width:30%">
+  <div class="middle">
+    <div class="text">
+    <p>Arsenal Cider House & Wine Cellar</p>
+    <p>Pittsburgh</p>
+    <p>✭✭✭✭✭</p>
+    
+    </div>
+  </div>
+</div>
+    
+<div class="SC">
+  <img src="icons/SC.jpg" alt="SC" class="image" style="width:30%">
+  <div class="middle">
+    <div class="text">
+    <p>Lock Monkeys Locksmiths</p>
+    <p>Fort Mill</p>
+    <p>✭✭✭✭✭</p>
+    
+    </div>
+  </div>
+</div>
+
+<div class="VA">
+  <img src="icons/VA.png" alt="VA" class="image" style="width:30%">
+  <div class="middle">
+    <div class="text">
+    <p>Subway</p>
+    <p>Henderson</p>
+    <p>✭✭✭✭✩</p>
+    
+    </div>
+  </div>
+</div>
+    
+<div class="VT">
+  <img src="icons/VT.jpg" alt="VT" class="image" style="width:30%">
+  <div class="middle">
+    <div class="text">
+    <p>Ransom Bay Inn B & B</p>
+    <p>Alburg</p>
+    <p>✭✭✭✭✭</p>
+    
+    </div>
+  </div>
+</div>
+    
+<div class="WA">
+  <img src="icons/WA.png" alt="WA" class="image" style="width:50%">
+  <div class="middle">
+    <div class="text">
+    <p>Spa Alexis Massage & Bodywork</p>
+    <p>Houston</p>
+    <p>✭✭✭✭✩</p>
+    
+    </div>
+  </div>
+</div>
+    
+<div class="WI">
+  <img src="icons/WI.png" alt="WI" class="image" style="width:40%">
+  <div class="middle">
+    <div class="text">
+    <p>CloneMyKey</p>
+    <p>Madison</p>
+    <p>✭✭✭✭✭</p>
+    
+    </div>
+  </div>
+</div>
+
+<div class="TX">
+  <img src="icons/TX.png" alt="TX" class="image" style="width:80%">
+  <div class="middle">
+    <div class="text">
+    <p>Alley Theatre</p>
+    <p>Houston</p>
+    <p>✭✭✭✭✭</p>
+    
+    </div>
+  </div>
+</div>
+</body>
+</html>

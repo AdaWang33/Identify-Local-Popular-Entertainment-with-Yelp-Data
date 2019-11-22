@@ -1,0 +1,26 @@
+,state,name,city,latitude,longitude,stars,review_count,categories
+6,AK,"""McDonald's""",Chandler,33.27682018,-111.7909701,2.5,22,Restaurants;Fast Food;Burgers
+7,AL,"""Shadow's Threading & Henna Art""",North Las Vegas,36.26245827,-115.1820042,5,10,Hair Removal;Event Planning & Services;Eyebrow Services;Threading Services;Henna Artists;Beauty & Spas
+8,AR,"""Braces R Us""",Mesa,33.396629,-111.615618,5,11,Health & Medical;Dentists;Orthodontists
+9,AZ,"""Little Miss BBQ""",Phoenix,33.421808,-111.989174,5,1463,Restaurants;Barbeque
+14,CA,"""Open Up Therapies""",Las Vegas,36.1988542,-115.2659777,5,3,Massage;Health & Medical;Life Coach;Yoga;Active Life;Beauty & Spas;Physical Therapy;Fitness & Instruction;Professional Services
+17,CO,"""Sage Restaurant""",Main Street,51.91615085,-8.174058716,4.5,3,Irish;Restaurants
+19,DE,"""Vodafone Premium Händler""",Lingen,52.52187,7.31761,4,5,Computers;Shopping;Mobile Phones
+25,FL,"""Payless Car Rental""",Orlando,27.950575,-82.4571776,1.5,557,Car Rental;Hotels & Travel
+27,GA,"""Elite Plumbing""",Dallas,36.127104,-115.214049,5,3,Home Services;Plumbing
+31,IL,"""El Oasis""",Urbana,40.117278,-88.203156,5,77,Imported Food;Ethnic Food;Mexican;Restaurants;Specialty Food;Ice Cream & Frozen Yogurt;Food
+32,IN,"""Log House Restaurant""",Argos,41.2443711,-86.2623544,4,12,Restaurants
+34,KY,"""Spa Seafoods""",Spa,52.27539,-9.7885,4.5,3,Na
+36,MN,"""Highland Wrecker Services""",Las Vegas,35.6287183,-105.227032,3.5,3,Home Services;Towing;Keys & Locksmiths;Roadside Assistance;Automotive
+37,MT,"""The Great Frame Up""",St. Peters,38.7933471,-90.5845608,3,12,Home Decor;Arts & Crafts;Shopping;Arts & Entertainment;Framing;Art Galleries;Home & Garden
+38,NC,"""Chili Man""",Charlotte,35.226911,-80.843823,5,122,Food;Street Vendors;Restaurants;Hot Dogs
+39,NE,"""Adam's Paralegal Services""",Las Vegas,36.152569,-115.136644,4,4,Lawyers;Divorce & Family Law;Professional Services
+43,NV,"""Brew Tea Bar""",Las Vegas,36.0541948,-115.2424431,5,1165,Cafes;Tea Rooms;Food;Bubble Tea;Restaurants;Desserts
+44,NY,"""Sandi's Kountry Kitchen""",Mooers,44.9597306,-73.5924597,5,5,Sandwiches;American (Traditional);Breakfast & Brunch;Restaurants;Diners
+46,OH,"""The Cleveland Museum of Art""",Cleveland,41.5082395,-81.61153039,5,249,Education;Museums;Performing Arts;Arts & Entertainment;Art Classes;Art Schools;Specialty Schools
+48,PA,"""Arsenal Cider House & Wine Cellar""",Pittsburgh,40.4650852,-79.9609206,5,187,Food;Beer;Wine & Spirits
+52,SC,"""Lock Monkeys Locksmiths""",Fort Mill,35.028202,-80.904797,5,30,Keys & Locksmiths;Shopping;Contractors;Automotive;Home & Garden;Printing Services;Home Decor;Local Services;Auto Repair;Home Services
+58,VA,"""Subway""",Henderson,36.59770444,-78.1475605,4,3,Restaurants;Sandwiches;Fast Food
+60,VT,"""Ransom Bay Inn B & B""",Alburg,44.953815,-73.2705,5,5,Bed & Breakfast;Hotels & Travel;Hotels;Event Planning & Services
+61,WA,"""Spa Alexis Massage & Bodywork""",Houston,29.7358298,-95.4676332,4,4,Day Spas;Medical Spas;Health & Medical;Massage Therapy;Beauty & Spas;Massage
+63,WI,"""CloneMyKey""",Madison,43.0707302,-89.3831443,5,131,Professional Services;Security Services;Home Services;Keys & Locksmiths

@@ -1,0 +1,68 @@
+state,,name,city,state,postal_code,latitude,longitude,stars,review_count,is_open,categories
+01,49646,"""Bifferiet""",Moss,01,1530,59.4356164,10.6647064,5.0,4,1,Steakhouses;Restaurants
+3,115963,"""Schweinberger""",Stetten,3,2100,48.3669,16.3827,5.0,4,1,Austrian;Restaurants;Beer Garden
+30,41174,"""Le Duo""",Alex,30,30100,44.1264107,4.0808254999999996,3.0,3,1,Restaurants;French
+6,121794,"""Krummholzhütte""",Haus,6,8967,47.3792,13.7685,5.0,3,1,Hotels & Travel;Hotels;Event Planning & Services
+AB,93051,"""ARMA Studio""",Toronto,AB,M5T 3K7,43.6551994,-79.39996140000001,5.0,3,1,Event Planning & Services;Private Tutors;Musical Instruments & Teachers;Education;Shopping;Musicians;Specialty Schools
+ABE,7886,"""Britannia Inn""",Dudley,ABE,DY3 1UX,52.52778539999999,-2.1160213,4.5,6,1,Bars;Nightlife;Pubs
+AK,50527,"""McDonald's""",Chandler,AK,85286,33.2768201798,-111.79097007799999,2.5,22,1,Restaurants;Fast Food;Burgers
+AL,33181,"""Shadow's Threading & Henna Art""",North Las Vegas,AL,89031,36.2624582694,-115.18200416100001,5.0,10,1,Hair Removal;Event Planning & Services;Eyebrow Services;Threading Services;Henna Artists;Beauty & Spas
+AR,92901,"""Braces R Us""",Mesa,AR,85208,33.396629,-111.615618,5.0,11,1,Health & Medical;Dentists;Orthodontists
+AZ,153363,"""Little Miss BBQ""",Phoenix,AZ,85034,33.421808,-111.989174,5.0,1463,1,Restaurants;Barbeque
+B,77093,"""Retaurante Parrilla los Isleños""",Tigre,B,,-34.418034000000006,-58.572552,2.5,6,1,Restaurants;Argentine
+BW,24779,"""Christophorus""",Stuttgart,BW,70435,48.8345211415,9.152136513,5.0,37,1,Restaurants;International
+BY,63321,"""Atlasreisen""",Leonberg,BY,71229,48.7922305,9.0102769,5.0,5,0,Travel Services;Hotels & Travel;Transportation
+C,125091,"""Arnaldo""",Olivos,C,,-34.5137148952,-58.4888194035,4.5,23,1,Food;Ice Cream & Frozen Yogurt
+CA,152924,"""Open Up Therapies""",Las Vegas,CA,89128,36.1988542,-115.2659777,5.0,3,0,Massage;Health & Medical;Life Coach;Yoga;Active Life;Beauty & Spas;Physical Therapy;Fitness & Instruction;Professional Services
+CHE,162179,"""Chester Race Co""",Chester,CHE,CH1 2LY,53.1897926,-2.8944182,5.0,9,1,Active Life;Arts & Entertainment;Horse Racing;Stadiums & Arenas
+CMA,7785,"""Birdoswald Roman Fort""",Brampton,CMA,CA8 7DD,54.990102,-2.572867,3.5,6,1,Landmarks & Historical Buildings;Public Services & Government
+CO,6307,"""Sage Restaurant""",Main Street,CO,,51.91615085270001,-8.1740587155,4.5,3,1,Irish;Restaurants
+CS,39173,"""Motel Shhh""",Onda,CS,12200,39.96749570000001,-0.2638502,4.5,3,1,Hotels & Travel;Hostels
+DE,86954,"""Vodafone Premium Händler""",Lingen,DE,49808,52.52186999999999,7.31761,4.0,5,1,Computers;Shopping;Mobile Phones
+EDH,141737,"""Arthur's Seat""",Edinburgh,EDH,EH8 8EQ,55.9439750067,-3.1620082537,5.0,171,1,Hiking;Parks;Active Life;Public Services & Government;Landmarks & Historical Buildings
+ELN,118471,"""North Berwick Beach""",Edinburgh,ELN,EH39 5NL,56.0435147,-2.7854954,5.0,5,1,Active Life;Parks
+ESX,84096,"""The Hope Inn""",Newhaven,ESX,BN9 9DN,50.7820308959,0.0553292258,5.0,5,1,Nightlife;Bars;Pubs
+FAL,7874,"""Blackness Castle""",Blackness,FAL,EH49 7NH,56.004025,-3.519889,4.0,11,1,Arts & Entertainment;Local Flavor;Education;Museums
+FIF,121436,"""Fresh""",Dunfermline,FIF,KY12 7NB,56.07089820000001,-3.4635224,5.0,5,1,Coffee & Tea;Food
+FL,57949,"""Payless Car Rental""",Las Vegas,FL,89119,27.950575,-82.4571776,1.5,557,1,Car Rental;Hotels & Travel
+FLN,51443,"""ASDA""",Queensferry,FLN,CH5 1TJ,53.2021,-3.0331,4.5,5,1,Food;Grocery
+GA,78859,"""Elite Plumbing""",Las Vegas,GA,89146,36.127103999999996,-115.214049,5.0,3,1,Home Services;Plumbing
+GLG,15695,"""Juice Warrior""",Edinburgh,GLG,EH8 8FS,55.9515527,-3.1834249,5.0,4,1,Juice Bars & Smoothies;Food Delivery Services;Food;Caterers;Event Planning & Services
+HLD,70308,"""Achnagairn House""",Inverness,HLD,IV5 7ND,57.4754805,-4.4163986,5.0,6,1,Hotels;Hotels & Travel;Event Planning & Services
+HU,96654,"""La Capilleta""",Plan,HU,22367,42.5803158535,0.3363052914,4.5,3,1,French;Spanish;Cafeteria;Restaurants
+IL,21185,"""El Oasis""",Urbana,IL,61802,40.117278000000006,-88.203156,5.0,77,1,Imported Food;Ethnic Food;Mexican;Restaurants;Specialty Food;Ice Cream & Frozen Yogurt;Food
+IN,22282,"""Log House Restaurant""",Argos,IN,46501,41.2443711,-86.2623544,4.0,12,0,Restaurants
+KHL,6735,"""The Square""",Edinburgh,KHL,EH2 1HJ,55.95561239999999,-3.1924425,3.5,7,1,Sandwiches;Coffee & Tea;Restaurants;Soup;Food
+KY,103043,"""Spa Seafoods""",Spa,KY,,52.27539,-9.7885,4.5,3,1,Na
+MLN,17799,"""Hannah Zakari""",Edinburgh,MLN,EH1 2QB,55.9476776123,-3.192538023,5.0,8,1,Jewelry;Shopping
+MN,59996,"""Highland Wrecker Services""",Las Vegas,MN,87701,35.628718299999996,-105.22703200000001,3.5,3,1,Home Services;Towing;Keys & Locksmiths;Roadside Assistance;Automotive
+MT,75831,"""The Great Frame Up""",St. Peters,MT,63376,38.793347100000005,-90.5845608,3.0,12,0,Home Decor;Arts & Crafts;Shopping;Arts & Entertainment;Framing;Art Galleries;Home & Garden
+NC,60075,"""Chili Man""",Charlotte,NC,28202,35.226911,-80.843823,5.0,122,1,Food;Street Vendors;Restaurants;Hot Dogs
+NE,1803,"""Adam's Paralegal Services""",Las Vegas,NE,89104,36.152569,-115.13664399999999,4.0,4,1,Lawyers;Divorce & Family Law;Professional Services
+NI,94075,"""Landhaus Artischocke""",Hemmingen,NI,30966,52.3218,9.746789999999999,4.5,10,1,Event Planning & Services;Food;Mediterranean;Hotels & Travel;Specialty Food;Hotels;German;Restaurants
+NLK,15606,"""Wishaw Malt""",Livingston,NLK,ML2 7BL,55.7741379904,-3.9180000705,3.5,3,1,Nightlife;Bars;Pubs
+NTH,69321,"""Glastonbury Festival""",Pilton,NTH,BA4,51.1738031,-2.4965892999999997,5.0,4,1,Nightlife;Festivals;Music Venues;Arts & Entertainment
+NV,13577,"""Brew Tea Bar""",Las Vegas,NV,89139,36.0541948,-115.24244309999999,5.0,1165,1,Cafes;Tea Rooms;Food;Bubble Tea;Restaurants;Desserts
+NY,133111,"""Sandi's Kountry Kitchen""",Mooers,NY,12958,44.95973060000001,-73.5924597,5.0,5,1,Sandwiches;American (Traditional);Breakfast & Brunch;Restaurants;Diners
+NYK,14242,"""RockStar Tattoo""",Scarborough,NYK,YO12 7SN,54.284717559799994,-0.40443900229999996,5.0,7,1,Beauty & Spas;Piercing;Tattoo
+OH,31695,"""The Cleveland Museum of Art""",Cleveland,OH,44106,41.5082394966,-81.6115303874,5.0,249,1,Education;Museums;Performing Arts;Arts & Entertainment;Art Classes;Art Schools;Specialty Schools
+ON,76613,"""Passport Photo""",Toronto,ON,M5T 2E9,43.6545374,-79.3983798,5.0,240,1,Shopping;Photography Stores & Services
+PA,67763,"""Arsenal Cider House & Wine Cellar""",Pittsburgh,PA,15201,40.465085200000004,-79.9609206,5.0,187,1,Food;Beer;Wine & Spirits
+PKN,9765,"""Giulianos""",Edinburgh,PKN,KY13 0QJ,56.1780446,-3.5191971,3.5,24,1,Restaurants;Italian
+QC,10886,"""Damas""",Outremont,QC,H2V 1K4,45.522564100000004,-73.6132118,5.0,128,1,Middle Eastern;Syrian;Restaurants
+RCC,159120,"""Humble Pie 'N' Mash Shop""",Whitby,RCC,YO22 4AS,54.487033150200006,-0.6115796559000001,5.0,8,1,Coffee & Tea;Event Planning & Services;Food;Restaurants;British;Caterers;Steakhouses;Cafes
+SC,167651,"""Lock Monkeys Locksmiths""",Fort Mill,SC,29715,35.028202,-80.904797,5.0,30,1,Keys & Locksmiths;Shopping;Contractors;Automotive;Home & Garden;Printing Services;Home Decor;Local Services;Auto Repair;Home Services
+SCB,152076,"""Lothian Cat Rescue""",Bonnyrigg,SCB,EH19 3JH,55.8581879,-3.0706734,4.5,6,1,Pets;Animal Shelters
+SL,44101,"""Unikat""",Böblingen,SL,66606,48.701281099999996,9.0072426,5.0,3,1,Automotive;Body Shops
+ST,167795,"""Rotkäppchen-Mumm Sektkellereien""",Freyburg,ST,06632,51.217605999999996,11.767746,5.0,8,1,Wineries;Beer;Wine & Spirits;Grocery;Arts & Entertainment;Food
+STG,34662,"""Great Glen Way""",Inverness,STG,G83 7DZ,57.4965694,-4.1222999,4.5,3,1,Active Life
+TAM,155603,"""Great Clips""",Las Vegas,TAM,89130,36.2711136165,-115.20740259,4.0,12,1,Hair Salons;Beauty & Spas
+VA,80956,"""Subway""",Henderson,VA,27536,36.597704441,-78.1475605017,4.0,3,1,Restaurants;Sandwiches;Fast Food
+VS,44939,"""Emiliana""",Casablanca,VS,,-33.401111,-71.115401,5.0,3,1,Food;Wineries;Beer;Wine & Spirits;Arts & Entertainment
+VT,34920,"""Ransom Bay Inn B & B""",Alburg,VT,05440,44.953815000000006,-73.2705,5.0,5,1,Bed & Breakfast;Hotels & Travel;Hotels;Event Planning & Services
+WA,5257,"""Spa Alexis Massage & Bodywork""",Houston,WA,77056,29.7358298,-95.46763320000001,4.0,4,0,Day Spas;Medical Spas;Health & Medical;Massage Therapy;Beauty & Spas;Massage
+WHT,159672,"""Al Settimo Arte - La Carpe""",Saint-sauveur,WHT,7912,50.70827,3.5981199999999998,3.0,4,1,Pizza;Italian;Restaurants
+WI,142678,"""CloneMyKey""",Madison,WI,53703,43.0707302,-89.3831443,5.0,131,1,Professional Services;Security Services;Home Services;Keys & Locksmiths
+WLN,66683,"""The Jupiter Artland""",Kirknewton,WLN,EH27 8BB,55.9095441,-3.4116352999999995,5.0,8,1,Community Service/Non-Profit;Local Services
+XGL,142651,"""Costa Coffee""",Edinburgh,XGL,EH12 9DN,55.9483321333,-3.3641292999999997,4.5,6,1,Food;British;Coffee & Tea;Restaurants
+ZET,156754,"""Nando's""",Edinburgh,ZET,EH1 3AA,55.9563921071,-3.1862251311,3.5,4,1,Restaurants;Chicken Wings;Portuguese
